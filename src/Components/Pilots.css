@@ -64,9 +64,3 @@ h4 {
     box-shadow: 4px 8px 18px #000;
     padding: 25px;
 }
-
-@media screen and (max-width:768px) {
-    .card-group {
-        width: 50%;
-    }
-}
