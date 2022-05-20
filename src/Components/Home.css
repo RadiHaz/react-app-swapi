@@ -1,0 +1,12 @@
+.home-btn {
+    transform: scale(2);
+    margin: 50px;
+    transition-duration: 0.2s;
+    background-color: #000;
+}
+
+.home-btn:hover {
+    box-shadow: 5px 5px 15px #000;
+    transform: scale(2.1);
+    background-color: #F56F36;
+}
